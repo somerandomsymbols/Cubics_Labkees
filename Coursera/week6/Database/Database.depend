@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1587329087 source:d:\c\coursera\week6\database\token.cpp
+	"token.h"
+	<stdexcept>
+
+1587405477 d:\c\coursera\week6\database\token.h
+	<sstream>
+	<vector>
+
+1587329087 source:d:\c\coursera\week6\database\condition_parser.cpp
+	"condition_parser.h"
+	"token.h"
+	<map>
+
+1587329087 d:\c\coursera\week6\database\condition_parser.h
+	"node.h"
+	<memory>
+	<iostream>
+
+1587461604 d:\c\coursera\week6\database\node.h
+	"database.h"
+
+1587467712 d:\c\coursera\week6\database\date.h
+	<bits/stdc++.h>
+
+1587458889 source:d:\c\coursera\week6\database\main.cpp
+	"condition_parser.h"
+	<bits/stdc++.h>
+
+1587462795 d:\c\coursera\week6\database\database.h
+	"date.h"
+
+1587467767 source:d:\c\coursera\week6\database\date.cpp
+	"date.h"
+
+1587468547 source:d:\c\coursera\week6\database\database.cpp
+	"database.h"
+
+1587461965 source:d:\c\coursera\week6\database\node.cpp
+	"node.h"
+
+1587329087 source:d:\c\coursera\coursera\week6\database\condition_parser.cpp
+	"condition_parser.h"
+	"token.h"
+	<map>
+
+1587329087 d:\c\coursera\coursera\week6\database\condition_parser.h
+	"node.h"
+	<memory>
+	<iostream>
+
+1587461604 d:\c\coursera\coursera\week6\database\node.h
+	"database.h"
+
+1587462795 d:\c\coursera\coursera\week6\database\database.h
+	"date.h"
+
+1587467712 d:\c\coursera\coursera\week6\database\date.h
+	<bits/stdc++.h>
+
+1587405477 d:\c\coursera\coursera\week6\database\token.h
+	<sstream>
+	<vector>
+
+1587468547 source:d:\c\coursera\coursera\week6\database\database.cpp
+	"database.h"
+
+1587467767 source:d:\c\coursera\coursera\week6\database\date.cpp
+	"date.h"
+
+1587458889 source:d:\c\coursera\coursera\week6\database\main.cpp
+	"condition_parser.h"
+	<bits/stdc++.h>
+
+1587461965 source:d:\c\coursera\coursera\week6\database\node.cpp
+	"node.h"
+
+1587329087 source:d:\c\coursera\coursera\week6\database\token.cpp
+	"token.h"
+	<stdexcept>
+

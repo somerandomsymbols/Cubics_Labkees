@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1587144018 source:d:\c\coursera\week3\buses\bus_manager.cpp
+	"bus_manager.h"
+
+1587144158 d:\c\coursera\week3\buses\bus_manager.h
+	"responses.h"
+
+1587144181 d:\c\coursera\week3\buses\responses.h
+	<bits/stdc++.h>
+
+1587144018 source:d:\c\coursera\week3\buses\responses.cpp
+	"responses.h"
+
+1587143655 source:d:\c\coursera\week3\buses\query.cpp
+	"query.h"
+
+1587144230 d:\c\coursera\week3\buses\query.h
+	<bits/stdc++.h>
+
